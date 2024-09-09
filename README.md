@@ -1,2 +1,2 @@
-# ds202-david_chan
+# ds202-david
 ode to an academic advisor 
